@@ -44,14 +44,3 @@ I am a dedicated Data Analyst and Business Analyst with a passion for leveraging
 - Conducted detailed line-by-line breakdowns of invoices for specific accounts, using PDF editing and Excel.
 - Collaborated with cross-functional teams to address and troubleshoot issues in the SQL-based programs.
 
-## Projects
-
-### Ride Share Bike Company Case Study
-**Personal Project**  
-*April 2020*  
-[GitHub Link](https://github.com/Jordan-Villarreal/ride-share-case-study)
-
-- Led comprehensive data cleaning for Cyclistic bike-share data (2023), ensuring a reliable dataset.
-- Analyzed user behavior, ride trends, and disparities between casual riders and annual members using SQL.
-- Proposed strategic initiatives to diversify memberships and attract a broader audience.
-- Anticipated positive outcomes, including diversified memberships, increased adoption, enhanced brand loyalty, and revenue growth.
