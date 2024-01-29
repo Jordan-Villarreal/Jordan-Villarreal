@@ -49,7 +49,7 @@ I am a dedicated Data Analyst and Business Analyst with a passion for leveraging
 ### Ride Share Bike Company Case Study
 **Personal Project**  
 *April 2020*  
-[GitHub Link](https://github.com/yourusername/ride-share-case-study)
+[GitHub Link]([https://github.com/Jordan-Villarreal/ride-share-case-study](https://github.com/Jordan-Villarreal/-Cyclist-Case-Study-))
 
 - Led comprehensive data cleaning for Cyclistic bike-share data (2023), ensuring a reliable dataset.
 - Analyzed user behavior, ride trends, and disparities between casual riders and annual members using SQL.
