@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a dedicated Data Analyst and Business Analyst with a passion for leveraging data to drive meaningful insights and facilitate informed decision-making. My expertise lies in transforming complex information into clear, actionable strategies using a combination of Python, R, SQL, and Excel.
+I am a dedicated Data Analyst and Business Analyst with a passion for leveraging data to drive meaningful insights and facilitate informed decision-making. I have worked as an associate analyst for over two years on high value projects. My expertise lies in transforming complex information into clear, actionable strategies using a combination of SQL, Excel, and data visualization.
 
 ## Skills
 
