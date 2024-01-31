@@ -3,6 +3,7 @@
 📧 [Jordan1mw1@gmail.com](mailto:Jordan1mw1@gmail.com)  
 📞 (915) 887 7090  
 🌐 [LinkedIn](https://www.linkedin.com/in/JordanVillarreal)  
+🌐 [Portfolio Projects](https://jordan-villarreal.github.io/)  
 
 ## About Me
 
